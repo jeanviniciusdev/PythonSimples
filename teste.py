@@ -16,10 +16,10 @@ escola_capacitados = "https://escola.inss.gov.br/report/customsql/view.php?id=59
 grafico_wordpress = 'https://universidade.inss.gov.br/wp-admin/post.php?post=4941&action=elementor'
 
 # Credenciais
-usuario_escola = '3446511'
-senha_escola = '24033110'
-usuario_wp = 'daniel.simoes'
-senha_wp = 'Daniel@123'
+usuario_escola = 'xxxxxx'
+senha_escola = 'xxxxxx'
+usuario_wp = 'xxxxxxxx'
+senha_wp = 'xxxxxxx'
 
 def login_escola_inss(url):
     driver.get(url)
