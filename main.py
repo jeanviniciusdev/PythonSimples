@@ -21,10 +21,10 @@ relatorios = [
 ]
 
 # Credenciais
-usuario_escola = '3446511'
-senha_escola = '24033110'
-usuario_wp = 'daniel.simoes'
-senha_wp = 'Daniel@123'
+usuario_escola = 'xxxxxx'
+senha_escola = 'xxxxxxx'
+usuario_wp = 'xxxxxxxx'
+senha_wp = 'xxxxxxxx'
 
 # Função para fazer login na Escola INSS
 def login_escola():
