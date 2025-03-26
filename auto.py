@@ -19,10 +19,10 @@ escola_certificados = "https://escola.inss.gov.br/report/customsql/view.php?id=5
 grafico_wordpress = 'https://universidade.inss.gov.br/wp-admin/post.php?post=4941&action=elementor'
 
 # Credenciais
-usuario_escola = '3446511'
-senha_escola = '24033110'
-usuario_wp = 'daniel.simoes'
-senha_wp = 'Daniel@123'
+usuario_escola = 'xxxxxxx'
+senha_escola = 'xxxxxxx'
+usuario_wp = 'xxxxxxx'
+senha_wp = 'xxxxxxxxx'
 
 def substituir_dado():
     pyautogui.click(x=213, y=429)
